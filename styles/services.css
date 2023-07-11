@@ -7,6 +7,10 @@
     background-color: black;
 }
 
+.container_black {
+    background-color: black;
+    max-width: 1150px;
+}
 
 .services__header {
     margin-bottom: 34px;
