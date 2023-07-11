@@ -1,0 +1,28 @@
+@import url(../styles/interiors.css);
+@import url(../styles/description.css);
+@import url(../styles/projects.css);
+@import url(../styles/services.css);
+
+* {
+    letter-spacing: -0.03em;
+}
+
+body {
+    width: 100%;
+    font-family: 'manrope';
+    font-weight: 400;
+    color: #121212;
+}
+
+section {
+    margin-bottom: 150px;
+    width: 100%;
+}
+
+.container {
+    margin: 0 auto;
+    box-sizing: border-box;
+    width: 1400px;
+    padding: 0 125px;
+}
+

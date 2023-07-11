@@ -1,0 +1,25 @@
+.description__title {
+    margin-bottom: 30px;
+    width: 51px;
+    height: 25px;
+    font-size: 18px;
+}
+
+.description__text {
+    margin-bottom: 30px;
+    width: 1048px;
+    height: 366px;
+    font-size: 45px;
+    line-height: 61.47px;
+}
+
+.description__button {
+    display: inline-block;
+    padding: 20px 40px;
+    font-size: 20px;
+    line-height: 27.32px;
+    text-decoration: none;
+    color: #FFFFFF;
+    background-color: #AD1818;
+    border-radius: 5px;
+}
