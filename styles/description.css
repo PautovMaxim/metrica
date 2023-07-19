@@ -1,4 +1,4 @@
-.description__title {
+.description__header {
     margin-bottom: 30px;
     width: 51px;
     height: 25px;
@@ -19,7 +19,7 @@
     font-size: 20px;
     line-height: 27.32px;
     text-decoration: none;
-    color: #FFFFFF;
-    background-color: #AD1818;
+    color: #ffffff;
+    background-color: #ad1818;
     border-radius: 5px;
 }
