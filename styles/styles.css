@@ -25,3 +25,9 @@ section {
     width: 1400px;
     padding: 0 125px;
 }
+
+.title {
+    font-size: 18px;
+    line-height: 24.59px;
+    height: 25px;
+}

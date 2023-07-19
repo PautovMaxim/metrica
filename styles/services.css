@@ -6,13 +6,9 @@
     background-color: black;
 }
 
-.services__header {
+.services__title {
     margin-bottom: 34px;
     padding-top: 151px;
-    width: 66px;
-    height: 25px;
-    line-height: 24.59px;
-    font-size: 18px;
 }
 
 .services__information-block {
@@ -30,8 +26,7 @@
     padding-bottom: 15px;
 }
 
-.services__title {
-    height: 41px;
-    line-height: 40.98px;
+.services__block-name {
+    line-height: 41px;
     font-size: 30px;
 }
