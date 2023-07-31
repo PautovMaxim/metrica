@@ -24,8 +24,6 @@
 }
 
 .projects__detail {
-    width: 127px;
-    height: 27px;
     cursor: pointer;
     text-decoration: none;
     font-size: 20px;
