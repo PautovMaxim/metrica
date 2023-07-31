@@ -1,6 +1,5 @@
 .projects {
     height: 2122px;
-    box-sizing: border-box;
 }
 
 .projects__title {
@@ -10,7 +9,6 @@
 .projects__information-block {
     margin-bottom: 90px;
     height: 548px;
-    box-sizing: border-box;
 }
 
 .projects__image-block {
