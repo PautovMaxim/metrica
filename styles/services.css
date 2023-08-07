@@ -1,7 +1,8 @@
 .services {
     margin: 0px;
+    min-width: 1400px;
     color: #fff;
-    background-color: black;
+    background-color: #121212;
 }
 
 .services__title {

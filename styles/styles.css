@@ -2,9 +2,15 @@
 @import url(../styles/description.css);
 @import url(../styles/projects.css);
 @import url(../styles/services.css);
+@import url(../styles/nav.css);
+@import url(../styles/sample-project.css);
 
 * {
     letter-spacing: -0.03em;
+}
+
+html {
+    scroll-behavior: smooth;
 }
 
 body {
