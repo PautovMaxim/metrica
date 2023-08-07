@@ -1,5 +1,6 @@
 .sample-project {
     position: relative;
+    min-width: 1400px;
     height: 717px;
     background-image: url(../resources/full.jpg);
     background-repeat: no-repeat;
