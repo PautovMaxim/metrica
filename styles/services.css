@@ -21,11 +21,10 @@
 
 .services__image-block {
     width: 1150px;
-    height: 270px;
     padding-bottom: 15px;
 }
 
 .services__block-name {
-    line-height: 41px;
+    line-height: 39px;
     font-size: 30px;
 }

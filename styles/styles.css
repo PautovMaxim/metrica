@@ -4,6 +4,8 @@
 @import url(../styles/services.css);
 @import url(../styles/nav.css);
 @import url(../styles/sample-project.css);
+@import url(../styles/contacts.css);
+@import url(../styles/footer.css);
 
 * {
     letter-spacing: -0.03em;
